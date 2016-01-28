@@ -1,6 +1,6 @@
 Package.describe({
     name: 'jossoco:bootstrap-datepicker',
-    summary: 'Meteor package wrapping bootstrap-datepicker: https://github.com/eternicode/bootstrap-datepicker',
+    summary: 'Meteor package wrapping bootstrap-datepicker 1.5.1: https://github.com/eternicode/bootstrap-datepicker',
     version: '1.0.0',
     git: 'https://github.com/jossoco/meteor-bootstrap-datepicker.git'
 });
