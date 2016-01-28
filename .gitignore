@@ -1,1 +1,4 @@
+meteor-bootstrap-datepicker
 node_modules
+.npm
+.versions
